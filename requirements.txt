@@ -1,0 +1,39 @@
+# Core Python tools
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Geospatial libraries
+laspy
+pdal
+rasterio
+geopandas
+pyproj
+
+# MLops & Experiment Tracking
+mlflow
+
+# AWS Integration
+boto3
+
+# Web Dashboard
+streamlit
+
+# Airflow (use constraints when installing)
+apache-airflow==2.8.1
+psycopg2-binary
+flask-session==0.4.0
+boto3
+pandas
+numpy
+scikit-learn
+laspy
+pdal
+rasterio
+geopandas
+pyproj
+matplotlib
+mlflow
+apache-airflow==2.8.1
+streamlit
